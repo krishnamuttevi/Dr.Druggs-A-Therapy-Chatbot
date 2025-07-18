@@ -4,6 +4,8 @@
 
 Your AI-powered mental health companion built using Python, NLP, and web technologies.
 
+youtube :https://youtu.be/vHBq3-fSR0E
+
 Dr.Druggs is a conversational therapy chatbot designed to provide a supportive empathetic interface for users seeking mental health assistance. It's not a replacement for professional therapy, but an approachable and educational tool to promote mental wellness through conversation.
 
 🌟 Features
