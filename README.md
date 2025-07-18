@@ -1,4 +1,4 @@
-🧠 Dr.Druggs – A Therapy Chatbot
+# 🧠 Dr.Druggs – A Therapy Chatbot
 
 <img width="1920" height="1080" alt="Dr Drugg's Architecture" src="https://github.com/user-attachments/assets/2ba25ba6-773c-4e20-a727-6248983134d3" />
 
