@@ -44,10 +44,17 @@ The bot generates a relevant response based on predefined patterns.
 
 The conversation continues interactively in a chat-like UI.
 
-📁 Project Structure
-<pre> Dr.Druggs-A-Therapy-Chatbot/ ├── app.py # Main Flask app ├── intents.json # Intent definitions and training data ├── static/ # CSS, JS files ├── templates/ # HTML files ├── chatbot_model.pkl # Trained model (if applicable) ├── README.md # Project documentation </pre>
-📷 Screenshots (Optional – Add if you have images)
-You can include images like chatbot UI screenshots using:
+### 📁 Project Structure
+
+```
+Dr.Druggs-A-Therapy-Chatbot/
+├── app.py                 # Main Flask app
+├── intents.json           # Intent definitions and training data
+├── static/                # CSS, JS files
+├── templates/             # HTML files
+├── chatbot_model.pkl      # Trained model (if applicable)
+├── README.md              # Project documentation
+```
 
 
 
